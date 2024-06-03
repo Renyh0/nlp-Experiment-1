@@ -1,0 +1,6 @@
+{
+  "model": "gpt-3.5-turbo",
+  "api_key": "None",
+  "base_url": "http://0.0.0.0:6006/v1",
+  "seed": 12345
+}
